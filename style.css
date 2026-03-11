@@ -36,7 +36,19 @@ section {
     border-radius: 10px;
     display: block;
     margin-bottom: 15px;
-    align-self: center;
+    
+}
+
+.img3 img {
+    width: 500px;
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto 15px auto;
+}
+
+.text-center {
+    text-align: center;
 }
 
 ul {
